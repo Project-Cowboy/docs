@@ -1,0 +1,5 @@
+[book]
+authors = ["proof-partner"]
+language = "en"
+src = "src"
+title = "Cowboy Docs"
