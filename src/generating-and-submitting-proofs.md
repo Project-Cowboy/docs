@@ -139,7 +139,7 @@ See [Getting Started](./getting-started.md) and [Developer Examples](./example-i
 
 ## 🧪 Test the Flow
 
-Use the [live devnet](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fkelkoo-intention-forms-internship.trycloudflare.com#/explorer) to:
+Use the [live devnet](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fallergy-discrimination-croatia-hurricane.trycloudflare.co) to:
 
 - Observe onchain proof submissions
 - Monitor emitted public outputs
