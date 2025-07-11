@@ -58,6 +58,9 @@ Once you're comfortable submitting proofs, try writing your own:
 
 Check out the Developer Examples for structure, utilities, and inspiration.
 
+## Repo
+Check out the Repo [here](https://github.com/Project-Cowboy/example-integrations)
+
 ## 🧠 Learn More
 - [Introduction](./introduction.md): What Cowboy is and why it matters.
 - [FAQs](./faqs.md): Get clarity on integrations, proof types, and more.

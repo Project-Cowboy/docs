@@ -6,30 +6,7 @@ This guide walks you through how to generate a proof from a web request and subm
 
 ## Overview of the Proof Flow
 
-```mermaid
-sequenceDiagram
-    participant Prover
-    participant Browser
-    participant Notary
-    participant Node
-
-    Browser->>Browser: Web request to prove is selected
-    Browser->>Notary: Send web request to Notary
-    Notary->>Notary: Generate TLS Notary proof
-    Notary-->>Browser: Return TLS proof
-    Browser->>Browser: Check for registered integration
-
-    alt Integration exists
-        Browser->>Prover: Send core + app request
-        Prover->>Prover: Generate core + app proof
-    else No integration
-        Browser->>Prover: Send core request only
-        Prover->>Prover: Generate core proof
-    end
-
-    Prover-->>Node: Submit proof to devnet
-    Node->>Node: Verify proof and emit public outputs
-```
+![My Test Image](./wMOef6uzHX9T.png)
 
 ---
 

@@ -20,7 +20,7 @@ This is the *utility layer* of Cowboy, where developers define what they want to
 
 Each integration includes the following key components:
 
-- **A web target** — An endpoint or page on the internet (e.g., `https://pokeapi.co/api/v2/pokemon/jigglypuff`) whose response will be proven.
+- **A web target** — An endpoint or page on the internet (e.g., `https://pokeapi.co/api/v2/pokemon/jigglypuff`) whose request/response will be proven.
 - **An application-specific program** — A zk-STARK circuit written in Rust that verifies the TLSNotary proof (core proof) and checks custom conditions about the fetched data (e.g., checking follower count, extracting specific fields).
 - **Public outputs** — Optional values emitted by the program after verification, used on-chain or by other integration proofs.
 
