@@ -45,8 +45,5 @@ The example integrations demonstrate both what’s possible and how to use the p
 
 ## Next Steps
 
-Check out the specific examples:
-- [TikTok Proof](./tiktok.md)
-- [X.com Proof](./x.com.md)
+Check out the Repo [here](https://github.com/Project-Cowboy/example-integrations)
 
-If you're ready to build your own, head over to [Getting Started](./getting-started.md) and [Resources](./resources.md) to set up your environment.
