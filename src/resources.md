@@ -8,7 +8,7 @@ To get the browser extension on a Chrome-based browser
 3. Unzip
 4. If on Chrome, go to chrome://extensions/. If on Brave, go to brave://extensions/
 5. "Load unpacked"
-6. Select the unzipped folder.
+6. Select the unzipped folder. If it doesn't allow you to upload, you may need to select a build sub-folder.
 
 ## Cowboy Prover
 To run the local prover which enables proving custom logic developed on Cowboy, please do:
