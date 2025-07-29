@@ -37,11 +37,13 @@ This tells your browser how to contact Cowboy's hosted notary server. ⚠️ In 
 
 ### 2. Run the Local Prover
 
-You must run the prover container locally:
+You must run the prover container locally. If running on MacOS(arm64), you can do:
 
 ```bash
-docker run -p 1881:1881 --platform linux/amd64 ghcr.io/project-cowboy/cowboy-prover:latest
+docker run -p 1881:1881 --platform linux/amd64 ghcr.io/project-cowboy/cowboy-prover:latest --node-url wss://goals-unable-seller-myspace.trycloudflare.com
 ```
+
+If on amd64, omit the `platform` argument.
 
 This component must be running in the background to generate and submit proofs.
 
