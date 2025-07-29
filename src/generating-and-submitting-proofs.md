@@ -31,7 +31,7 @@ Please see the [Resources](./resources.md) page to find the steps to prepare the
 1. Follow instructions in the [Resources guide](./resources.md) to install and enable the extension in Chrome or Brave.
 2. Click the icon for the extension.
 3. Click the hamburger icon in the top-right corner > "Options"
-4. Under Notary API, enter: "https://restricted-manga-workstation-stevens.trycloudflare.com"
+4. Under Notary API, enter: "https://juvenile-surface-corps-securities.trycloudflare.com"
 
 This tells your browser how to contact Cowboy's hosted notary server. ⚠️ In general, make sure you're using a trusted notary server.
 
@@ -57,7 +57,7 @@ This component must be running in the background to generate and submit proofs.
 Once generated, a new window should open, which contains information about the proof. Click the "onchain" tab to progress to a wallet interface.
 
 1. Click the "On-chain" tab
-2. You must tell the extension how to reach the node. In the `Node Url` field, enter `wss://allergy-discrimination-croatia-hurricane.trycloudflare.com`
+2. You must tell the extension how to reach the node. In the `Node Url` field, enter `wss://goals-unable-seller-myspace.trycloudflare.com`
 2. Click "Connect"
 3. Click "Create new account". This creates a test account, and stores it in the wallet.
 4. Click "Claim" to interact with the onchain faucet account, and claim some funds for your account.

@@ -14,11 +14,11 @@ To get the browser extension on a Chrome-based browser
 To run the local prover which enables proving custom logic developed on Cowboy, please do:
 
 ```shell
-docker  run -p 1881:1881  ghcr.io/project-cowboy/cowboy-prover:latest ./target/release/k256-example --node-url  "wss://allergy-discrimination-croatia-hurricane.trycloudflare.com"
+docker  run -p 1881:1881  ghcr.io/project-cowboy/cowboy-prover:latest ./target/release/k256-example --node-url  "wss://goals-unable-seller-myspace.trycloudflare.com"
 ```
 
 Leave this running whenever you are using the extension or doing local proving.
 
 ## Access the live devnode
 
-To access the live devnode, visit it via the polkadotjs explorer link [here](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fallergy-discrimination-croatia-hurricane.trycloudflare.com)
+To access the live devnode, visit it via the polkadotjs explorer link [here](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fgoals-unable-seller-myspace.trycloudflare.com)
